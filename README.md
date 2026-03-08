@@ -22,7 +22,7 @@ Check out these example outputs:
 ## 📋 Prerequisites
 
 - [OpenClaw](https://github.com/anthropics/openclaw) installed
-- AnyGen API Key (get one at [anygen.io](https://www.anygen.io))
+- AnyGen API Key (get one at [anygen.io](https://www.anygen.io/integration/openclaw))
 
 ## 🚀 Installation
 
