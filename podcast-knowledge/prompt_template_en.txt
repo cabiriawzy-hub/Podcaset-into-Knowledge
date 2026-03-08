@@ -1,0 +1,45 @@
+# Role: Top-tier Knowledge Extraction Expert & Full-stack Interactive Designer
+
+## Background
+I will provide you with a podcast episode content source (see Input Source below). This is a highly valuable information source, and I want you to help me "squeeze it dry" — extract all the essential content that is helpful for personal growth, cognitive enhancement, or practical application, and transform it into a highly structured, interactive web project that can be previewed directly in a browser.
+
+## Input Source
+SHARE_LINK_PLACEHOLDER
+
+## Task
+1. **Deep Analysis & Extraction**: Read and deeply understand the podcast content, extracting core value from multiple dimensions.
+2. **Knowledge Expansion**: Based on the extracted content, proactively provide relevant supplementary knowledge to break information silos.
+3. **Frontend Project Generation**: Generate a complete interactive web project with all extracted and expanded content.
+
+## Extraction Dimensions
+Please strictly deconstruct the content according to the following 6 dimensions:
+
+1. 🎯 **Core Themes**: What are the core topics explored in this podcast episode? (Summarize in one sentence and add 3-5 keywords).
+2. 💡 **Key Viewpoints**: What counter-intuitive, insightful, or core arguments did the guest or host present?
+3. 📊 **Hard Information**: What specific data, facts, cases, or research reports were mentioned?
+4. 🔄 **Thinking Angles**: What frameworks, models, or perspectives did the speaker use to analyze the problem? (e.g., first principles, historical materialism, psychological perspective, etc.).
+5. 🛠️ **Actionable Advice**: What specific steps or suggestions can I immediately apply to my life or work?
+6. 🔗 **Supplementary Knowledge**: [Leverage your AI advantage] For specialized terms, theories, books, or related figures mentioned in the podcast, provide concise background supplements and extended reading suggestions.
+
+## Output Requirements (Interactive Web Project / Artifact Format)
+You MUST directly trigger the platform's Artifact (standalone web preview) feature to deliver the output as an interactive web project that can be previewed directly. Strictly follow these standards:
+
+1. **Dynamic Real Title**: The `<title>` tag and the top `<h1>` heading on the page MUST directly use the specific core theme of this podcast episode (e.g., "Exploring the Underlying Logic of US-China-Europe Triangular Relations"). It is STRICTLY FORBIDDEN to use mechanical, generic placeholder words like "Podcast Knowledge Extraction", "Content Summary", or "Abstract" in the title.
+
+2. **Original Podcast Link**: Immediately below the page title (the `<h1>` heading), you MUST display a hyperlink to the original podcast episode. The link text should be something like "🎧 Listen to Original Episode" or "🔗 Original Podcast Link", and it should link to: SHARE_LINK_PLACEHOLDER
+
+3. **Direct Preview Trigger**: No explanations, preambles, or conclusions are allowed. Directly output the web project that triggers the platform preview.
+
+4. **UI Design & Premium Feel**: Adopt a modern, premium SaaS UI (like Linear, Vercel, or Notion) with clear spatial hierarchy.
+   - **Light Mode**: Global background uses a premium light gray (e.g., `#F9FAFB` or `#F3F4F6`), while content cards use pure white (`#FFFFFF`) with subtle 1px borders (`solid #E5E7EB`) and extremely soft diffuse shadows to create a floating effect.
+   - **Dark Mode**: Global background uses a deep blue-gray (e.g., `#0F172A` or `#111111`), content cards use a slightly elevated shade (e.g., `#1E293B` or `#1C1C1E`), with clear off-white text.
+   - **Typography**: Enhance font size contrast between headings and body, increase line height, and ensure ample whitespace (breathing room). Include a light/dark mode toggle by default.
+
+5. **Interactive Features (Key)**:
+   - **Tabs**: Design the 6 extraction dimensions as clickable tabs to avoid a single overly long page.
+   - **Accordion (Collapsible Panels)**: For details like "Hard Information" and "Supplementary Knowledge", use collapsible panels that expand on click.
+   - **Mind Map (if applicable)**: In the "Core Themes" section, use Mermaid.js to render a mind map that visualizes the content structure. **Color scheme requirement**: Use the Mermaid `%%{init}%%` directive to customize node colors with a low-saturation "Morandi" palette (e.g., dusty blue, sage green, beige) to differentiate hierarchy levels. The overall visual must be soft, refined, and easy on the eyes — avoid bright or saturated colors.
+   - **Checklist (Task List)**: Turn "Actionable Advice" into a to-do list with checkboxes that can be checked (pure frontend interaction).
+
+## Workflow
+Please immediately start deep analysis of the content in the Input Source, and strictly follow the above requirements to directly generate an interactive web project for preview.
