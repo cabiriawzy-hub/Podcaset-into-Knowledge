@@ -15,9 +15,9 @@ Transform Apple Podcasts episodes into beautiful, interactive knowledge extracti
 ## 🎬 Demo
 
 Check out these example outputs:
-- [Why You're Smarter Than You Think](https://www.anygen.io/task/NLZtpGj3saSlPugsNhFlpy3Cgif)
-- [The Secret of Charisma](https://www.anygen.io/task/TQDbpdKQ0auw18gPhrLlLdzIgVe)
-- [The Power and Impact of Whimsy](https://www.anygen.io/task/Mie7p2yuna0Ba2gfGuUlMOX6gMc)
+- [How the Unconscious Mind Shapes Choices (and How to Influence It)](https://www.anygen.io/task/exploring-the-unconscious-versus-conscious-mind-FnnophSTTaWmAAgwAHol9ReYgZb)
+- [The Psychology of Whimsy: Why Play Is So Powerful](https://www.anygen.io/share/3OnNkc1UZ3mWmRfiKvqe8P?share_id=7586609367986802401)
+- [The Secret of Charisma: Why Clarity in Uncertainty Can Enchant—and Mislead](https://www.anygen.io/share/5nYjGLMhU7h2G7l4OUmVhN?share_id=7586609367986802401)
 
 ## 📋 Prerequisites
 
